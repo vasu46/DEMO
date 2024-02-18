@@ -7,5 +7,8 @@ public class B {
 	    System.out.println("TL is Modified the Code");
 
 	}
+	public static int add(int a,int b) {
+		return a+b;
+	}
 
 }
